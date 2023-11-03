@@ -1,5 +1,5 @@
-- Hi, I’m Monal a simple coder trying to Programe Code.
-- I’m interested in Python programming , Data Science , Cloud computing , DataBase and other domains.
+- Hi, I’m Monal a simple coder trying to became a Programmer.
+- I’m interested in Python programming , Data Science ,Web Development,  Cloud computing, DataBase and other domains.
 - Current i am doing a deep dive in Data Science field and enhancing my skills.
 - I shared my journey of learning to help you little bit, by proving Assignment and solutions in my repositories.
 - How to reach me :- singhmonal2002@gmail.com
